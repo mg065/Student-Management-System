@@ -1,0 +1,9 @@
+*
+!*/
+!*.cpp
+!*.h
+!.gitignore
+!*.csv
+!*.pdf
+!*.md
+!*.xlsx
